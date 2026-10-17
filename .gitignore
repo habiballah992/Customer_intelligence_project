@@ -1,0 +1,29 @@
+# Virtual environment
+customer.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/*.csv
+data/*.xlsx
+
+# Trained models
+models/*.pkl
+
+# Secrets
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
